@@ -4,7 +4,7 @@
 
 ## A empresa (fictícia)
 
-**ClinAgenda**: startup de agendamento para clínicas. O produto foi construído em Bubble, chegou a 300 clínicas pagantes e começou a sofrer com lentidão e custo crescente.
+**ClinAgenda**: startup de agendamento para clínicas. O produto foi construído numa plataforma no-code, chegou a 300 clínicas pagantes e começou a sofrer com lentidão e custo crescente.
 
 ## O problema
 
